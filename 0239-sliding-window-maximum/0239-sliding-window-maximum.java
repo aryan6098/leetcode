@@ -11,7 +11,6 @@ class Solution {
         }
         A[index] = deque.peekFirst();
         index++;
-        // arrayList.add(deque.peekFirst());
         int s = 1;
         int e = k;
         while(e < nums.length) {
