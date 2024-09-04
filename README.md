@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/aryan6098/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [2470-removing-stars-from-a-string](https://github.com/aryan6098/leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -31,8 +32,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1894-merge-strings-alternately](https://github.com/aryan6098/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/aryan6098/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2470-removing-stars-from-a-string](https://github.com/aryan6098/leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/aryan6098/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2470-removing-stars-from-a-string](https://github.com/aryan6098/leetcode/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
