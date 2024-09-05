@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/aryan6098/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0969-number-of-recent-calls](https://github.com/aryan6098/leetcode/tree/master/0969-number-of-recent-calls) |
 ## Sliding Window
 |  |
 | ------- |
@@ -61,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0906-walking-robot-simulation](https://github.com/aryan6098/leetcode/tree/master/0906-walking-robot-simulation) |
+## Design
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/aryan6098/leetcode/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/aryan6098/leetcode/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
