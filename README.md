@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/aryan6098/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/aryan6098/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/aryan6098/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [1894-merge-strings-alternately](https://github.com/aryan6098/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/aryan6098/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2470-removing-stars-from-a-string](https://github.com/aryan6098/leetcode/tree/master/2470-removing-stars-from-a-string) |
