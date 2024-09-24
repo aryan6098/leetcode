@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/aryan6098/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/aryan6098/leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0233-number-of-digit-one](https://github.com/aryan6098/leetcode/tree/master/0233-number-of-digit-one) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/aryan6098/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
 |  |
@@ -95,4 +96,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/aryan6098/leetcode/tree/master/0118-pascals-triangle) |
+| [0233-number-of-digit-one](https://github.com/aryan6098/leetcode/tree/master/0233-number-of-digit-one) |
+## Recursion
+|  |
+| ------- |
+| [0233-number-of-digit-one](https://github.com/aryan6098/leetcode/tree/master/0233-number-of-digit-one) |
 <!---LeetCode Topics End-->
