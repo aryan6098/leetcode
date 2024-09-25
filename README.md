@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/aryan6098/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryan6098/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aryan6098/leetcode/tree/master/0027-remove-element) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aryan6098/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/aryan6098/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryan6098/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aryan6098/leetcode/tree/master/0027-remove-element) |
 | [1894-merge-strings-alternately](https://github.com/aryan6098/leetcode/tree/master/1894-merge-strings-alternately) |
@@ -101,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0233-number-of-digit-one](https://github.com/aryan6098/leetcode/tree/master/0233-number-of-digit-one) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/aryan6098/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
