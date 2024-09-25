@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/aryan6098/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0906-walking-robot-simulation](https://github.com/aryan6098/leetcode/tree/master/0906-walking-robot-simulation) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/aryan6098/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1603-running-sum-of-1d-array](https://github.com/aryan6098/leetcode/tree/master/1603-running-sum-of-1d-array) |
 ## Stack
 |  |
 | ------- |
@@ -107,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aryan6098/leetcode/tree/master/0011-container-with-most-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/aryan6098/leetcode/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
