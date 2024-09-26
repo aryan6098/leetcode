@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/aryan6098/leetcode/tree/master/0906-walking-robot-simulation) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/aryan6098/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1603-running-sum-of-1d-array](https://github.com/aryan6098/leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/aryan6098/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Stack
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/aryan6098/leetcode/tree/master/0001-two-sum) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aryan6098/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0906-walking-robot-simulation](https://github.com/aryan6098/leetcode/tree/master/0906-walking-robot-simulation) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/aryan6098/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Design
 |  |
 | ------- |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryan6098/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Counting
+|  |
+| ------- |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/aryan6098/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 <!---LeetCode Topics End-->
