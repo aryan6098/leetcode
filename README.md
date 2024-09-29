@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/aryan6098/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryan6098/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aryan6098/leetcode/tree/master/0027-remove-element) |
+| [0078-subsets](https://github.com/aryan6098/leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aryan6098/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aryan6098/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/aryan6098/leetcode/tree/master/0118-pascals-triangle) |
@@ -132,4 +133,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/aryan6098/leetcode/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/aryan6098/leetcode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/aryan6098/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
