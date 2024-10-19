@@ -104,10 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/aryan6098/leetcode/tree/master/0100-same-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aryan6098/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/aryan6098/leetcode/tree/master/0100-same-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aryan6098/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Dynamic Programming
 |  |
@@ -153,4 +155,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/aryan6098/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/aryan6098/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aryan6098/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/aryan6098/leetcode/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/aryan6098/leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
