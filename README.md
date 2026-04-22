@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/aryan6098/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/aryan6098/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0906-walking-robot-simulation](https://github.com/aryan6098/leetcode/tree/master/0906-walking-robot-simulation) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/aryan6098/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/aryan6098/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1603-running-sum-of-1d-array](https://github.com/aryan6098/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/aryan6098/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/aryan6098/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0560-subarray-sum-equals-k](https://github.com/aryan6098/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0906-walking-robot-simulation](https://github.com/aryan6098/leetcode/tree/master/0906-walking-robot-simulation) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/aryan6098/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/aryan6098/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Design
 |  |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/aryan6098/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/aryan6098/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/aryan6098/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1603-running-sum-of-1d-array](https://github.com/aryan6098/leetcode/tree/master/1603-running-sum-of-1d-array) |
 ## Binary Search
 |  |
